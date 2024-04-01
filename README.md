@@ -1,4 +1,4 @@
-# Webscraping + cleaning
+# Webscraping
 
 Used: https://en.wikipedia.org/wiki/List_of_Formula_One_World_Constructors%27_Champions
 
